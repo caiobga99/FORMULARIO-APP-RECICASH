@@ -1,0 +1,32 @@
+body {
+    /* usar as cores preto, verde, branco */
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
+    /* background-image: linear-gradient(to right, #f0e6f6, #ecdef4, #e8d6f2, #e4cdf0, #e0c5ee); */
+    background-image: linear-gradient(to right, #f8f8ff, #ecdef4, #e8d6f2, #e4cdf0, #f8f8ff);
+}
+
+.container {
+    background-color: white;
+    border-radius: 13px;
+}
+
+.form-check {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70px;
+}
+
+.br {
+    background-image: linear-gradient(to right, #f0e6f6, #ecdef4, #e8d6f2, #e4cdf0, #e0c5ee);
+}
+
+.container dpn {
+    background-image: linear-gradient(to right, #f0e6f6, #ecdef4, #e8d6f2, #e4cdf0, #e0c5ee);
+}
+
+.titulo {
+    background-image: linear-gradient(to right, rgb(74, 131, 74), rgb(100, 170, 120), rgb(150, 200, 180), rgb(200, 240, 200), rgb(40, 50, 60));
+    border-radius: 13px;
+}
